@@ -5,7 +5,7 @@ var str = "Hello my name is Jasper. Im a hacker. I hacked your device and now it
 function myFunc() {
    document.getElementById("myInput").value += str[count];
    count++;
-   if(count == 235 || count == 236)
+   if(count == 234 || count == 235)
    {
        //thanks @maz for checking my code
        if("1.." in navigator)
